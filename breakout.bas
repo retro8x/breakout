@@ -1,17 +1,3 @@
-'///////////////////////////////////////////////////////////////////////////////
-' Breakout v1.5
-' written by Rene 'retro8x' Breitinger
-'
-' contact: retro8x@protonmail.com
-' support: https://www.paypal.me/retro8x
-' license: BMACv1
-'          Do whatever you like with this code. However if you make any
-'          usage of it then please support me by buying me a coffee.
-'
-' The sound effects are made by 'rubberduck' under the CC0 public domain license
-'///////////////////////////////////////////////////////////////////////////////
-'
-'
 #include once "fbgfx.bi"
 #include once "windows.bi"
 #include once "win/mmsystem.bi"

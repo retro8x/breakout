@@ -1,16 +1,3 @@
-'///////////////////////////////////////////////////////////////////////////////
-' Breakedit v0.8
-' written by Rene 'retro8x' Breitinger
-'
-' contact: retro8x@protonmail.com
-' support: https://www.paypal.me/retro8x
-' license: BMACv1
-'          Do whatever you like with this code. However if you make any
-'          usage of it then please support me by buying me a coffee.
-'
-'///////////////////////////////////////////////////////////////////////////////
-'
-'
 #include once "fbgfx.bi"
 #include once "vbcompat.bi"
 '

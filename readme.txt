@@ -2,7 +2,7 @@
 ' Breakout v1.5 / Breakedit v0.8
 ' written by Rene 'retro8x' Breitinger
 '
-' contact: retro8x@protonmail.com
+' discord: retro8x#3765
 ' support: https://www.paypal.me/retro8x
 ' license: BMACv1
 '          Do whatever you like with this code. However if you make any
@@ -11,6 +11,17 @@
 ' The sound effects are made by 'rubberduck' under the CC0 license
 '//////////////////////////////////////////////////////////////////////////////
 '
+
+compile:
+you will need the freebasic (fbc) compiler 32-bit
+
+windows:
+to compile the game run "fbc -s gui breakout.bas"
+to compile the editor run "fbc -s gui breakedit.bas"
+
+
+
+
 Breakout, a very classic game! Move the Paddle using the mouse and destroy the 
 blocks with the floating ball. Press any mouse button to launch the ball. 
 If you hit all the blocks then you will come to the next stage. will you be 
